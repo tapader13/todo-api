@@ -1,0 +1,17 @@
+.findOne()
+ 
+console.log(req.body);
+ 
+object
+ 
+object
+ 
+connect
+ 
+object
+ 
+registerUser
+ 
+
+import { registerUser } from './controllers/userControllers.js';
+ 
